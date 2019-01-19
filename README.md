@@ -104,4 +104,4 @@ To make some modification you can use the following properties, Like:
 
 ## Licence
 
-PKCountryPicker is released under the MIT license.
+`PKProgressView` is released under the MIT license.
