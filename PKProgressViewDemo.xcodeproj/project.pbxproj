@@ -13,8 +13,8 @@
 		842C6E1621F1A9B100649158 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 842C6E1421F1A9B100649158 /* LaunchScreen.storyboard */; };
 		842C6E1E21F1A9BC00649158 /* PKProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 842C6E1D21F1A9BC00649158 /* PKProgressView.swift */; };
 		842C6E2021F1BBB800649158 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 842C6E1F21F1BBB800649158 /* Assets.xcassets */; };
-		842C6E2421F1BE0B00649158 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 842C6E2321F1BE0B00649158 /* README.md */; };
 		8460C0C821F35B10007768CC /* PKProgressView.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8460C0C721F35B0F007768CC /* PKProgressView.gif */; };
+		8460C0CA21F35BCE007768CC /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 8460C0C921F35BCD007768CC /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,8 +26,8 @@
 		842C6E1721F1A9B100649158 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		842C6E1D21F1A9BC00649158 /* PKProgressView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PKProgressView.swift; sourceTree = "<group>"; };
 		842C6E1F21F1BBB800649158 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		842C6E2321F1BE0B00649158 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		8460C0C721F35B0F007768CC /* PKProgressView.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = PKProgressView.gif; sourceTree = "<group>"; };
+		8460C0C921F35BCD007768CC /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +44,7 @@
 		842C6DFF21F1A9AF00649158 = {
 			isa = PBXGroup;
 			children = (
+				8460C0C921F35BCD007768CC /* README.md */,
 				842C6E0A21F1A9AF00649158 /* PKProgressViewDemo */,
 				842C6E0921F1A9AF00649158 /* Products */,
 			);
@@ -60,7 +61,6 @@
 		842C6E0A21F1A9AF00649158 /* PKProgressViewDemo */ = {
 			isa = PBXGroup;
 			children = (
-				842C6E2321F1BE0B00649158 /* README.md */,
 				842C6E0B21F1A9AF00649158 /* AppDelegate.swift */,
 				8460C0C721F35B0F007768CC /* PKProgressView.gif */,
 				842C6E1D21F1A9BC00649158 /* PKProgressView.swift */,
@@ -133,8 +133,8 @@
 			files = (
 				8460C0C821F35B10007768CC /* PKProgressView.gif in Resources */,
 				842C6E1621F1A9B100649158 /* LaunchScreen.storyboard in Resources */,
+				8460C0CA21F35BCE007768CC /* README.md in Resources */,
 				842C6E2021F1BBB800649158 /* Assets.xcassets in Resources */,
-				842C6E2421F1BE0B00649158 /* README.md in Resources */,
 				842C6E1121F1A9AF00649158 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
