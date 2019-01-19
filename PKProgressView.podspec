@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "PKProgressView"
-  s.version      = "0.1.0"
+  s.version      = "0.1.1"
   s.summary      = "This framework will help you in implementing the progress view with animation."
 
   s.description  = <<-DESC
