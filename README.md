@@ -1,12 +1,12 @@
 # PKProgressView
 
 [![CocoaPods](https://img.shields.io/cocoapods/p/FaveButton.svg)](https://github.com/bestiosdeveloper/PKProgressView)
-[![codebeat badge](https://codebeat.co/badges/580517f8-efc8-4d20-89aa-900531610144)]()
+[![codebeat badge](https://codebeat.co/badges/580517f8-efc8-4d20-89aa-900531610144)](https://codebeat.co/projects/github-com-bestiosdeveloper-pkprogressview-master)
 
 A Swift based helper class that will provide a progress view that can be used to fill it with animation, also can be used for car animation.
 
 
-![preview]()
+![preview](https://github.com/bestiosdeveloper/PKProgressView/blob/master/PKProgressViewDemo/PKProgressView.gif)
 
 
 ## Requirements
